@@ -1,0 +1,1 @@
+# salary_aggregation_algorithm
