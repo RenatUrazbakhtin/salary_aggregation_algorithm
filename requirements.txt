@@ -1,0 +1,7 @@
+pymongo
+python-dotenv
+asyncio
+aiohttp
+marshmallow-dataclass
+marshmallow
+motor
