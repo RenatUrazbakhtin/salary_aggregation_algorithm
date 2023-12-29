@@ -1,12 +1,11 @@
 import asyncio
 import os
 
-import motor.motor_asyncio
 from dotenv import load_dotenv
 
 from telegram.bot.base import Bot
 from telegram.bot.worker import salaries
-from utils import get_data_for_db, get_aggregated_data
+from utils import get_data_for_db
 
 load_dotenv()
 token = os.getenv('API_TOKEN')

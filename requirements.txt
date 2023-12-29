@@ -5,3 +5,4 @@ aiohttp
 marshmallow-dataclass
 marshmallow
 motor
+pytest
